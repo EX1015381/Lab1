@@ -1,0 +1,24 @@
+{
+  "tests": [
+    {
+      "name": "test_first_file",
+      "setup": "",
+      "run": "./first",
+      "input": "",
+      "output": "Computer Systems!!",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "test_second_file",
+      "setup": "",
+      "run": "./second",
+      "input": "",
+      "output": "120",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    }
+  ]
+}
