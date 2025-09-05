@@ -1,7 +1,5 @@
-#include <student.h>
-
-int main(int argc, char *argv[])
-{
-    printf("My first C lab assignment )
+#include<stdio.h>
+int main(int argc, char** argv){
+    printf("Computer Science!!");
     return 0;
 }
